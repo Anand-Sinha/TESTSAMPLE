@@ -24,7 +24,31 @@
 			"weight": "700",
 			"style": "italic",
 			"source": "Fonts/arialbi.ttf"
-		  }	  
+		  },
+				  {
+			"name": "Helvetica",
+			"weight": "400",
+			"style": "normal",
+			"source": "Fonts/HELVETICA.TTF"
+		  },
+				  {
+			"name": "Helvetica",
+			"weight": "400",
+			"style": "italic",
+			"source": "Fonts/HELVETICA-OBLIQUE.TTF"
+		  },
+		{
+			"name": "Helvetica",
+			"weight": "700",
+			"style": "italic",
+			"source": "Fonts/HELVETICA-BOLDOBLIQUE.TTF"
+		  },
+		{
+			"name": "Helvetica",
+			"weight": "700",
+			"style": "normal",
+			"source": "Fonts/HELVETICA-BOLD.TTF"
+		  }
 	]
   }
   
