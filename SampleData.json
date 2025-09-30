@@ -1,0 +1,14 @@
+[
+    {
+        "RTF": "{\\rtf1{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}{\\stylesheet{\\ql\\li0\\ri0\\nowidctlpar\\sl240\\faauto\\fs20\\f0 Normal;}}\\pard\\plain\\s0\\li0\\ri0\\qc\\nowidctlpar\\lang1033\\faauto\\f0\\fs20{\\fs22\\f0 [!Country]\\par}}",
+        "Country": "Country1"
+    },
+    {
+        "RTF": "{\\rtf1{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}{\\stylesheet{\\ql\\li0\\ri0\\nowidctlpar\\sl240\\faauto\\fs20\\f0 Normal;}}\\pard\\plain\\s0\\li0\\ri0\\qc\\nowidctlpar\\lang1033\\faauto\\f0\\fs20{\\fs22\\f0 [!Country]\\par}}",
+        "Country": "Country2"
+    },
+    {
+        "RTF": "{\\rtf1{\\fonttbl{\\f0\\fnil\\fcharset0 Arial;}}{\\stylesheet{\\ql\\li0\\ri0\\nowidctlpar\\sl240\\faauto\\fs20\\f0 Normal;}}\\pard\\plain\\s0\\li0\\ri0\\qc\\nowidctlpar\\lang1033\\faauto\\f0\\fs20{\\fs22\\f0 [!Country]\\par}}",
+        "Country": "Country3"
+    }
+]
